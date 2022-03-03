@@ -1,0 +1,26 @@
+body{
+  background-color: #CAF0F8;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #362706;
+  font-style: italic;
+  text-decoration: underline;
+
+}
+h3{
+  color: #362706;
+  font-style: normal;
+  text-decoration: underline;
+}
+table{
+  background-color:#00B4D8;
+
+}
